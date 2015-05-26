@@ -3,7 +3,7 @@ iterm2-borderless-padding
 
 This repo contains the binary and patch file used to remove borders and add padding to iTerm2.
 
-```
+```patch
 From e4f74ef9f1386494f4bbdd64398adf2ae9c7382b Mon Sep 17 00:00:00 2001
 From: Jared Culp <jculp14@gmail.com>
 Date: Tue, 26 May 2015 13:34:59 -0400
