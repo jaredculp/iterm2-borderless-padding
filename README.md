@@ -51,4 +51,6 @@ index 3863769..2c811fb 100644
 2.4.0
 ```
 
-You can apply the patch to the [source](https://github.com/gnachman/iTerm2) (you might need to resolve merge conflicts) and run `xcodebuild` if you want to change the padding values.
+You can apply the patch to the [source](https://github.com/gnachman/iTerm2) HEAD using the `make` command.
+
+The new binary will be located at `iTerm2/build/Development/iTerm2.app`.
