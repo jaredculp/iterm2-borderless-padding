@@ -19,11 +19,11 @@ index e6ab4c6..bde883d 100644
  
  // Number of pixels margin on left and right edge.
 -#define MARGIN 5
-+#define MARGIN 25
++#define MARGIN HORIZONTAL_VAR
  
  // Number of pixels margin on the top.
 -#define VMARGIN 2
-+#define VMARGIN 25
++#define VMARGIN VERTICAL_VAR
  
  @class iTermColorMap;
  @class iTermFindOnPageHelper;
