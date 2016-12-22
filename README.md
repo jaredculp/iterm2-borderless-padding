@@ -1,5 +1,13 @@
 # iterm2-borderless-padding
 
+## Deprecation Warning
+
+This [functionality](https://github.com/gnachman/iTerm2/pull/283) has now been [incorporated](https://github.com/gnachman/iTerm2/pull/316) into upstream iTerm.
+
+Please use the latest iTerm instead of this repo, which will no longer be updated.
+
+## Info
+
 This repo contains the patch file used to remove borders and add padding to iTerm2.
 
 ![iterm2-borderless-padding](http://i.imgur.com/QsMVfNq.png)
